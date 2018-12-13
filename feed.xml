@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>walks</title>
+  <title>Walks</title>
   <subtitle></subtitle>
   <id>https://walks.curation.space</id>
   <link href="https://walks.curation.space"/>
   <link href="https://walks.curation.space/feed.xml" rel="self"/>
-  <updated>2017-03-11T12:04:56Z</updated>
+  <updated>2017-03-11T12:04:56+00:00</updated>
   <author>
     <name>Felix K</name>
   </author>
@@ -13,8 +13,8 @@
     <title>Küsnacht Scenery Walk #2</title>
     <link rel="alternate" href="https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-2.html"/>
     <id>https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-2.html</id>
-    <published>2017-03-11T12:04:56Z</published>
-    <updated>2018-05-31T10:46:35+00:00</updated>
+    <published>2017-03-11T12:04:56+00:00</published>
+    <updated>2018-12-12T21:31:39+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -217,8 +217,8 @@
     <title>Küsnacht Scenery Walk #1</title>
     <link rel="alternate" href="https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-1.html"/>
     <id>https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-1.html</id>
-    <published>2017-03-11T12:04:42Z</published>
-    <updated>2018-05-31T10:46:35+00:00</updated>
+    <published>2017-03-11T12:04:42+00:00</published>
+    <updated>2018-12-12T21:31:39+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
