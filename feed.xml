@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Walks</title>
+  <title>Felix's Walks</title>
   <subtitle></subtitle>
   <id>https://walks.curation.space</id>
   <link href="https://walks.curation.space"/>
@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-2.html"/>
     <id>https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-2.html</id>
     <published>2017-03-11T12:04:56+00:00</published>
-    <updated>2018-12-12T21:31:39+00:00</updated>
+    <updated>2018-12-16T10:03:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -218,7 +218,7 @@
     <link rel="alternate" href="https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-1.html"/>
     <id>https://walks.curation.space/2017/03/11/kusnacht-scenery-walk-1.html</id>
     <published>2017-03-11T12:04:42+00:00</published>
-    <updated>2018-12-12T21:31:39+00:00</updated>
+    <updated>2018-12-16T10:03:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
